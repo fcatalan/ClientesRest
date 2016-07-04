@@ -5,4 +5,16 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>ClienteRestJava</name>
   <description>ClienteRestJava</description>
+  <dependencies>
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-dependency-plugin</artifactId>
+    <version>2.10</version>
+	</dependency>
+	<dependency>
+  <groupId>org.apache.httpcomponents</groupId>
+  <artifactId>httpclient</artifactId>
+  <version>4.5.2</version>
+</dependency>
+  </dependencies>
 </project>
