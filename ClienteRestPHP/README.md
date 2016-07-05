@@ -10,8 +10,12 @@
 </ul>
 
 <h2>Instalación de cURL</h2>
-sudo apt-get install php5-curl
+<ul>
+  <li>sudo apt-get install php5-curl</li>
+</ul>
 
 <h2>Reiniciar apache</h2>
-sudo service apache2 restart
+<ul>
+  <li>sudo service apache2 restart</li>
+<ul>
 
