@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="ClienteRestMonoDevelop/ClienteRestMonoDevelop.csproj" />
+﻿<Properties StartupItem="ClienteRestMonoDevelop/ClienteRestMonoDevelop.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClienteRestMonoDevelop/Program.cs">
+    <Files>
+      <File FileName="ClienteRestMonoDevelop/ClienteRest.cs" Line="117" Column="1" />
+      <File FileName="ClienteRestMonoDevelop/Program.cs" Line="70" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
