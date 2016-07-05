@@ -87,7 +87,7 @@ namespace ClienteRestMonoDevelop
 
 				Console.WriteLine("Ha elegido la opción de DELETE, el rut de la persona ha eliminar \n");
 
-				Console.WriteLine("Rut: ");
+				Console.Write("Rut: ");
 				Parametros.Add("rut", Console.ReadLine ());
 				//String rut = Console.ReadLine ();
 
