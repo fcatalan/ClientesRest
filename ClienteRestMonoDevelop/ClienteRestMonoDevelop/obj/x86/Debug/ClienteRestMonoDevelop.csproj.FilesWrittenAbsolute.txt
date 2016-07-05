@@ -1,0 +1,5 @@
+/home/fcatalan/git/ClientesRest/ClienteRestMonoDevelop/ClienteRestMonoDevelop/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/fcatalan/git/ClientesRest/ClienteRestMonoDevelop/ClienteRestMonoDevelop/bin/Debug/ClienteRestMonoDevelop.exe.mdb
+/home/fcatalan/git/ClientesRest/ClienteRestMonoDevelop/ClienteRestMonoDevelop/bin/Debug/ClienteRestMonoDevelop.exe
+/home/fcatalan/git/ClientesRest/ClienteRestMonoDevelop/ClienteRestMonoDevelop/obj/x86/Debug/ClienteRestMonoDevelop.exe
+/home/fcatalan/git/ClientesRest/ClienteRestMonoDevelop/ClienteRestMonoDevelop/obj/x86/Debug/ClienteRestMonoDevelop.exe.mdb
